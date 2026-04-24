@@ -1,0 +1,2 @@
+9800|https://raw.githubusercontent.com/sladkoeshkaogg-svg/CodeExecutor/main/scripts/script1.lua
+9900|https://raw.githubusercontent.com/sladkoeshkaogg-svg/CodeExecutor/main/scripts/script2.lua
