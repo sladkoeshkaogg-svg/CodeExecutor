@@ -1,1 +1,1 @@
-9800|https://raw.githubusercontent.com/sladkoeshkaogg-svg/CodeExecutor/main/scripts/script1.lua
+9800|https://raw.githubusercontent.com/BloodyV2/BloodyScript/refs/heads/main/Free
