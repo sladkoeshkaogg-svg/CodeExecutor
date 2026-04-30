@@ -1,2 +1,7 @@
 9800|https://raw.githubusercontent.com/BloodyV2/BloodyScript/refs/heads/main/Free
 0923|https://raw.githubusercontent.com/aaaa45451619/Yuki/refs/heads/145/Yuki%20Hub%20FTAP
+1234|https://raw.githubusercontent.com/Brovaky/Friendly/refs/heads/main/Friendly
+0508|https://raw.githubusercontent.com/kiramoded-droid/TokraScript/refs/heads/main/Loader.luau
+2113|https://raw.githubusercontent.com/Bruhiscrazy/codespaces-blank/refs/heads/main/FTAPadminwatch.lua
+2345|https://rawscripts.net/raw/Welcome-to-Roblox-Building-FANATIC-for-WTRB-201639
+6767|https://raw.githubusercontent.com/BlizTBr/scripts/refs/heads/main/FTAP.lua
