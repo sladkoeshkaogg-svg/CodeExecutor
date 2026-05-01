@@ -5,3 +5,6 @@
 2113|https://raw.githubusercontent.com/Bruhiscrazy/codespaces-blank/refs/heads/main/FTAPadminwatch.lua
 2345|https://rawscripts.net/raw/Welcome-to-Roblox-Building-FANATIC-for-WTRB-201639
 6767|https://raw.githubusercontent.com/BlizTBr/scripts/refs/heads/main/FTAP.lua
+0934|https://raw.githubusercontent.com/sladkoeshkaogg-svg/Ragalik/main/Ragalik.luau
+4824|https://raw.githubusercontent.com/sladkoeshkaogg-svg/BlizT.luau/main/Blitz.luau
+0392|https://raw.githubusercontent.com/sladkoeshkaogg-svg/PolarisHub/main/Polaris.luau
