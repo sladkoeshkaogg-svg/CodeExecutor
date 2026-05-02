@@ -8,3 +8,4 @@
 0934|https://raw.githubusercontent.com/sladkoeshkaogg-svg/Ragalik/main/Ragalik.luau
 4824|https://raw.githubusercontent.com/sladkoeshkaogg-svg/BlizT.luau/main/Blitz.luau
 0392|https://raw.githubusercontent.com/sladkoeshkaogg-svg/PolarisHub/main/Polaris.luau
+1731|https://raw.githubusercontent.com/sladkoeshkaogg-svg/Old-Tokra/main/Tokra.luau
