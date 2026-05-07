@@ -9,3 +9,7 @@
 4824|https://raw.githubusercontent.com/sladkoeshkaogg-svg/BlizT.luau/main/Blitz.luau
 0392|https://raw.githubusercontent.com/sladkoeshkaogg-svg/PolarisHub/main/Polaris.luau
 1731|https://raw.githubusercontent.com/sladkoeshkaogg-svg/Old-Tokra/main/Tokra.luau
+92847|https://raw.githubusercontent.com/sladkoeshkaogg-svg/Free-Rezonans/main/Mercury.luau
+54637|https://raw.githubusercontent.com/sladkoeshkaogg-svg/Free-Rezonans/main/Rezonans.luau
+4444|https://raw.githubusercontent.com/sladkoeshkaogg-svg/Free-Rezonans/main/Galaxy.luau
+12932|https://raw.githubusercontent.com/sladkoeshkaogg-svg/Free-Rezonans/main/Genius.luau
