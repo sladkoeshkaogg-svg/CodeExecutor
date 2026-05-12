@@ -14,3 +14,5 @@
 4444|https://raw.githubusercontent.com/sladkoeshkaogg-svg/Free-Rezonans/main/Galaxy.luau
 12932|https://raw.githubusercontent.com/sladkoeshkaogg-svg/Free-Rezonans/main/Genius.luau
 911|https://raw.githubusercontent.com/Bruhiscrazy/codespaces-blank/refs/heads/main/FTAPadminwatch.lua
+1145|https://raw.githubusercontent.com/sladkoeshkaogg-svg/Free-Rezonans/refs/heads/main/worst.luau
+6121|https://raw.githubusercontent.com/sladkoeshkaogg-svg/Free-Rezonans/refs/heads/main/VHSVF
