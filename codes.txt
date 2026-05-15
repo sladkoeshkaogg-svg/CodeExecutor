@@ -19,3 +19,4 @@
 213213|https://raw.githubusercontent.com/sladkoeshkaogg-svg/Free-Rezonans/refs/heads/main/Alon.luau
 123112|https://raw.githubusercontent.com/sladkoeshkaogg-svg/Free-Rezonans/refs/heads/main/BloodyPrem.luau
 0878|https://raw.githubusercontent.com/sladkoeshkaogg-svg/Free-Rezonans/refs/heads/main/ametistprem.luau
+2612|https://raw.githubusercontent.com/sladkoeshkaogg-svg/Free-Rezonans/refs/heads/main/Init.luau
