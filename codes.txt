@@ -1,3 +1,4 @@
+0690|https://raw.githubusercontent.com/sladkoeshkaogg-svg/Free-Rezonans/refs/heads/main/Wexord.luau
 9800|https://raw.githubusercontent.com/BloodyV2/BloodyScript/refs/heads/main/Free
 0923|https://raw.githubusercontent.com/aaaa45451619/Yuki/refs/heads/145/Yuki%20Hub%20FTAP
 1234|https://raw.githubusercontent.com/Brovaky/Friendly/refs/heads/main/Friendly
